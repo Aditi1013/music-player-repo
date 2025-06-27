@@ -18,10 +18,10 @@ A clean, responsive and visually appealing Music Player built using HTML, CSS, a
 
 ## 🛠 Tech Stack
 
-- **HTML5** – Structure
-- **CSS3** – Styling, layout, and animations
-- **JavaScript** – Core functionality and logic
-- **Font Awesome** – Icons for player controls
+- **HTML5** 
+- **CSS3** 
+- **JavaScript** 
+- **Font Awesome** 
 
 ---
 
@@ -37,7 +37,3 @@ music-player/
 │ └── ...
 ├── ss.mp3, thlh.mp3, ... 
 └── favicon.ico # Website icon
-
-
-
-
